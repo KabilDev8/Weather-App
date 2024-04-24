@@ -1,1 +1,1 @@
-This feature provides accurate weather information based on location. This app will also provide rain forecast, humidity information, maximum and minimum temperatures of the day and hourly temperature for a location
+This feature provides accurate weather information based on location. This app will also provide rain forecast, humidity information,wind speed maximum and minimum temperatures of the day and hourly temperature for a location
